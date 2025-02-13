@@ -8,7 +8,9 @@ I build interactive and user-friendly web experiences using HTML, CSS, and JavaS
 
 Frontend: HTML, CSS, JavaScript
 
-Learning: React, Advanced JS, Express, MongoDB
+Learning: React.js, Express.js, MongoDB
+
+Programming: Core Java
 
 Tools: VS Code, Git, GitHub
 
